@@ -1,0 +1,31 @@
+{
+  "name": "first_pgm",
+  "version": "1.0.0",
+  "description": "first progam in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivekanand-Kakade/Node-js-Programs.git"
+  },
+  "keywords": [
+    "Node",
+    "program",
+    "back",
+    "end",
+    "program",
+    "Node.js",
+    "program"
+  ],
+  "author": "Vivekanand Kakade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivekanand-Kakade/Node-js-Programs/issues"
+  },
+  "homepage": "https://github.com/Vivekanand-Kakade/Node-js-Programs#readme",
+  "dependencies": {
+    "mocha": "^10.7.3"
+  }
+}

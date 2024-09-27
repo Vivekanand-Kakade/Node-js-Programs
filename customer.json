@@ -1,0 +1,26 @@
+{
+    "customer1":{
+        "name":"Arun",
+        "Password":"1234",
+        "Profession": "Teacher",
+        "id":1
+    },
+    "customer2":{
+        "name":"Avnit",
+        "Password":"2345",
+        "Profession": "Professor",
+        "id":2
+    },
+    "customer3":{
+        "name":"Akarsh",
+        "Password":"3456",
+        "Profession": "Doctor trainee",
+        "id":3
+    },
+    "customer4":{
+        "name":"Avinash",
+        "Password":"4567",
+        "Profession": "Tax consultant",
+        "id":4
+    }
+}
